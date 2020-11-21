@@ -1,0 +1,15 @@
+{
+  "name": "German Translation",
+  "displayName": "German Translation",
+  "description": "German translation for Aseprite by noelkra",
+  "version": "1.0",
+  "author": { "name": "noelkra", "url": "https://noelkra.ch/" },
+  "categories": [
+    "Languages"
+  ],
+  "contributes": {
+    "languages": [
+      { "id": "de", "path": "./de.ini" }
+    ]
+  }
+}
