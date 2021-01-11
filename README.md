@@ -1,5 +1,5 @@
 ![icon](files/de-ch.gif)
-# Aseprite-French-Translation 
+# Aseprite-German-Translation 
 A german translation of Aseprite
 
 ## How to install this language extension
